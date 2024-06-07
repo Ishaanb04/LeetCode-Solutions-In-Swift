@@ -42,25 +42,4 @@ class Solution {
         }
         return mergeSort(nums)
     }
-    
-    // 75. Sort Colors
-    // https://leetcode.com/problems/sort-colors/description/
-    
-    func sortColors(_ nums: inout [Int]) {
-        var startIndex = 0
-        for index in 0 ..< nums.count {
-            if nums[index] == 0 {
-                nums.swapAt(startIndex, index)
-                startIndex += 1
-            }
-        }
-        
-        var endIndex = nums.count - 1
-        for index in stride(from: nums.count - 1, through: 0, by: -1) {
-            if nums[index] == 2 {
-                nums.swapAt(endIndex, index)
-                endIndex -= 1
-            }
-        }
-    }
 }
