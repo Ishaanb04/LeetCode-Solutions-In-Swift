@@ -4,5 +4,7 @@
         <page name='IntroPage'/>
         <page name='75. Sort Colors'/>
         <page name='912. Sort an Array'/>
+        <page name='554. Brick Wall'/>
+        <page name='535. Encode and Decode TinyURL'/>
     </pages>
 </playground>
