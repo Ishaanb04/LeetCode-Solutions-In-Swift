@@ -19,7 +19,7 @@ class Solution {
     }
     
     // Prefix Sum using hMap
-    func subarraySum(_ nums: [Int], _ k: Int) -> Int {
+    func subarraySum2(_ nums: [Int], _ k: Int) -> Int {
         var prefixCount = [Int: Int]()
         var sum = 0
         var result = 0

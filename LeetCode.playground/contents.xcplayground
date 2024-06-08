@@ -8,5 +8,6 @@
         <page name='535. Encode and Decode TinyURL'/>
         <page name='122. Best Time to Buy and Sell Stock II'/>
         <page name='560. Subarray Sum Equals K'/>
+        <page name='1930. Unique Length-3 Palindromic Subsequences'/>
     </pages>
 </playground>
