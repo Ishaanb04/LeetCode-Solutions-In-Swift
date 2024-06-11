@@ -10,6 +10,7 @@
         <page name='560. Subarray Sum Equals K'/>
         <page name='1930. Unique Length-3 Palindromic Subsequences'/>
         <page name='1963. Minimum Number of Swaps to Make the String Balanced'/>
+        <page name='2002. Maximum Product of the Length of Two Palindromic Subsequences'/>
         <page name='2001. Number of Pairs of Interchangeable Rectangles'/>
     </pages>
 </playground>
