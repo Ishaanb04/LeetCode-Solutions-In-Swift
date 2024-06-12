@@ -12,5 +12,6 @@
         <page name='1963. Minimum Number of Swaps to Make the String Balanced'/>
         <page name='2002. Maximum Product of the Length of Two Palindromic Subsequences'/>
         <page name='2001. Number of Pairs of Interchangeable Rectangles'/>
+        <page name='2017. Grid Game'/>
     </pages>
 </playground>
