@@ -18,5 +18,6 @@
         <page name='179. Largest Number'/>
         <page name='523. Continuous Subarray Sum'/>
         <page name='118. Pascal&apos;s Triangle'/>
+        <page name='838. Push Dominoes'/>
     </pages>
 </playground>
