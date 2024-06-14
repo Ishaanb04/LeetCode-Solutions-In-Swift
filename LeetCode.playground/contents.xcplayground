@@ -22,5 +22,6 @@
         <page name='187. Repeated DNA Sequences'/>
         <page name='380. Insert Delete GetRandom O(1)'/>
         <page name='1461. Check If a String Contains All Binary Codes of Size K'/>
+        <page name='304. Range Sum Query 2D - Immutable'/>
     </pages>
 </playground>
