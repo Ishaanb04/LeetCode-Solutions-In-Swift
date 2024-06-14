@@ -18,6 +18,3 @@ class Solution {
         return Array(subSequenceHMap.enumerated().filter { $0.element.value > 1}.map{$0.element.key})
     }
 }
-
-var s = Solution()
-print(s.findRepeatedDnaSequences("AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"))
