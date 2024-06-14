@@ -25,5 +25,6 @@
         <page name='665. Non-decreasing Array'/>
         <page name='304. Range Sum Query 2D - Immutable'/>
         <page name='2348. Number of Zero-Filled Subarrays'/>
+        <page name='2405. Optimal Partition of String'/>
     </pages>
 </playground>

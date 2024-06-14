@@ -18,6 +18,3 @@ class Solution {
         return result
     }
 }
-
-var s = Solution()
-print(s.zeroFilledSubarray([0,0,0,2,0,0]))
