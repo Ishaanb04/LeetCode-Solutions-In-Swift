@@ -31,5 +31,6 @@
         <page name='799. Champagne Tower'/>
         <page name='229. Majority Element II'/>
         <page name='1685. Sum of Absolute Differences in a Sorted Array'/>
+        <page name='2610. Convert an Array Into a 2D Array With Conditions'/>
     </pages>
 </playground>

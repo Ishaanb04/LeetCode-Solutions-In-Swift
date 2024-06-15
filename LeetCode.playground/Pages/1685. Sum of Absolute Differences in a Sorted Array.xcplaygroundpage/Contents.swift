@@ -18,7 +18,7 @@ class Solution {
     func getSumAbsoluteDifferences2(_ nums: [Int]) -> [Int] {
         var lSum = 0
         var rSum = nums.reduce(0) { $0 + $1 } - nums[0]
-        
+
         var result = Array(repeating: 0, count: nums.count)
         for i in 0 ..< nums.count {
             var rVal = rSum - (nums[i] * (nums.count - i - 1))
