@@ -35,7 +35,7 @@ class Solution {
         }
         
         hmap.forEach { key, _ in
-            if nums.filter { $0 == key }.count > (nums.count / 3) { output.append(key) }
+            if nums.filter({ $0 == key }).count > (nums.count / 3) { output.append(key) }
         }
         return output
     }
