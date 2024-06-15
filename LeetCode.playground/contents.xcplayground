@@ -32,5 +32,6 @@
         <page name='229. Majority Element II'/>
         <page name='1685. Sum of Absolute Differences in a Sorted Array'/>
         <page name='2610. Convert an Array Into a 2D Array With Conditions'/>
+        <page name='2870. Minimum Number of Operations to Make Array Empty'/>
     </pages>
 </playground>
