@@ -34,6 +34,7 @@
         <page name='2610. Convert an Array Into a 2D Array With Conditions'/>
         <page name='2966. Divide Array Into Arrays With Max Difference'/>
         <page name='2870. Minimum Number of Operations to Make Array Empty'/>
-        <page name=' Code Testcase Test Result Test Result 1291. Sequential Digits'/>
+        <page name='1291. Sequential Digits'/>
+        <page name='451. Sort Characters By Frequency'/>
     </pages>
 </playground>
