@@ -37,5 +37,6 @@
         <page name='1291. Sequential Digits'/>
         <page name='80. Remove Duplicates from Sorted Array II'/>
         <page name='451. Sort Characters By Frequency'/>
+        <page name='167. Two Sum II - Input Array Is Sorted '/>
     </pages>
 </playground>
