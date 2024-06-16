@@ -40,4 +40,4 @@ class UndergroundSystem {
  * obj.checkOut(id, stationName, t)
  * let ret_3: Double = obj.getAverageTime(startStation, endStation)
  */
-print([10, 20, 30].reduce(0) { $0 + $1 })
+

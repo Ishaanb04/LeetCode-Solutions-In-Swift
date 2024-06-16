@@ -10,7 +10,6 @@ class Solution {
                 count += 1
             } else {
                 result += (count * (count + 1)) / 2
-                print(result)
                 count = 0
             }
         }
