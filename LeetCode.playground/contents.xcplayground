@@ -48,5 +48,6 @@
         <page name='1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold'/>
         <page name='3. Longest Substring Without Repeating Characters'/>
         <page name='424. Longest Repeating Character Replacement'/>
+        <page name='567. Permutation in String'/>
     </pages>
 </playground>
