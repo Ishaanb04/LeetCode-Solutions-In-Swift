@@ -6,8 +6,10 @@ class Solution {
         var start = 0
         var end = height.count - 1
         var maxArea = Int.min
+
         while start < end {
-            let currArea = min(height[start], height[end]) * (end - start)
+            let currArea = min(height[start], height[end]) * (end - start
+            )
             maxArea = max(maxArea, currArea)
             if height[start] < height[end] {
                 start += 1
