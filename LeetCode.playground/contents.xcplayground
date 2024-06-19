@@ -45,5 +45,7 @@
         <page name='189. Rotate Array'/>
         <page name='1968. Array With Elements Not Equal to Average of Neighbors'/>
         <page name='881. Boats to Save People'/>
+        <page name='1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold'/>
+        <page name='3. Longest Substring Without Repeating Characters'/>
     </pages>
 </playground>
