@@ -43,5 +43,3 @@ class Solution {
     }
 }
 
-var s = Solution()
-s.checkInclusion("ab", "eidbaooo")
