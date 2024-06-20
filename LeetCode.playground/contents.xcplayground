@@ -53,5 +53,6 @@
         <page name='239. Sliding Window Maximum'/>
         <page name='RepeatedQuestions'/>
         <page name='20. Valid Parentheses'/>
+        <page name='150. Evaluate Reverse Polish Notation'/>
     </pages>
 </playground>
