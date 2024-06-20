@@ -43,8 +43,37 @@ The repository is organized into different categories based on the type of probl
   - [451. Sort Characters By Frequency](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/451.%20Sort%20Characters%20By%20Frequency.xcplaygroundpage/Contents.swift)
 - **Two Pointers**
   - [80. Remove Duplicates from Sorted Array II](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.xcplaygroundpage/Contents.swift)
+  - [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.xcplaygroundpage/Contents.swift)
+  - [18. 4Sum](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/18.%204Sum.xcplaygroundpage/Contents.swift)
+  - [189. Rotate Array](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/Untitled%20Page.xcplaygroundpage/Contents.swift)
+  - [1968. Array With Elements Not Equal to Average of Neighbors](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/1968.%20Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors.xcplaygroundpage/Contents.swift)
+  - [881. Boats to Save People](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/881.%20Boats%20to%20Save%20People.xcplaygroundpage/Contents.swift)
+  - [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/Untitled%20Page.xcplaygroundpage/Contents.swift)
+  - [3. Longest Substring Without Repeating Characters](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/3.%20Longest%20Substring%20Without%20Repeating%20Characters.xcplaygroundpage/Contents.swift)
+  - [424. Longest Repeating Character Replacement](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/424.%20Longest%20Repeating%20Character%20Replacement.xcplaygroundpage/Contents.swift)
+  - [567. Permutation in String](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/tree/main/LeetCode.playground/Pages/567.%20Permutation%20in%20String.xcplaygroundpage)
+  - [76. Minimum Window Substring](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/76.%20Minimum%20Window%20Substring.xcplaygroundpage/Contents.swift)
+  - [239. Sliding Window Maximum](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/239.%20Sliding%20Window%20Maximum.xcplaygroundpage/Contents.swift)
+  - [20. Valid Parentheses](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/20.%20Valid%20Parentheses.xcplaygroundpage/Contents.swift)
   - []()
   - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+
+  
 - **String Problems**
 - **Linked List Problems**
 - **Tree Problems**
