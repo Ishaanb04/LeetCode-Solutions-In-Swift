@@ -51,5 +51,7 @@
         <page name='567. Permutation in String'/>
         <page name='76. Minimum Window Substring'/>
         <page name='239. Sliding Window Maximum'/>
+        <page name='RepeatedQuestions'/>
+        <page name='20. Valid Parentheses'/>
     </pages>
 </playground>
