@@ -49,7 +49,7 @@
         <page name='3. Longest Substring Without Repeating Characters'/>
         <page name='424. Longest Repeating Character Replacement'/>
         <page name='567. Permutation in String'/>
-        <page name='1838. Frequency of the Most Frequent Element'/>
         <page name='76. Minimum Window Substring'/>
+        <page name='239. Sliding Window Maximum'/>
     </pages>
 </playground>

@@ -44,5 +44,3 @@ class Solution {
     }
 }
 
-var s = Solution()
-print(s.minWindow("ADOBECODEBANC", "ABC"))
