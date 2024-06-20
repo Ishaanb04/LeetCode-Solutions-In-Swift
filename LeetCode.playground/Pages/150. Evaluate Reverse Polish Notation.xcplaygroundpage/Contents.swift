@@ -19,7 +19,7 @@ class Solution {
                 let second = stack.removeLast()
                 stack.append(second / first)
             } else {
-                stack.append(Int(token))
+                stack.append(Int(token) ?? 0)
             }
         }
         return stack[0]
