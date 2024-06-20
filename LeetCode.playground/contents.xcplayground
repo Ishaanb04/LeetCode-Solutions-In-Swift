@@ -54,5 +54,6 @@
         <page name='RepeatedQuestions'/>
         <page name='20. Valid Parentheses'/>
         <page name='150. Evaluate Reverse Polish Notation'/>
+        <page name='22. Generate Parentheses'/>
     </pages>
 </playground>
