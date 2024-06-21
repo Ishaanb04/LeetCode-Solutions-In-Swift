@@ -63,5 +63,6 @@
         <page name='394. Decode String'/>
         <page name='704. Binary Search'/>
         <page name='74. Search a 2D Matrix'/>
+        <page name='875. Koko Eating Bananas'/>
     </pages>
 </playground>
