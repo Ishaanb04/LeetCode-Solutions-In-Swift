@@ -61,5 +61,6 @@
         <page name='84. Largest Rectangle in Histogram'/>
         <page name='2390. Removing Stars From a String'/>
         <page name='394. Decode String'/>
+        <page name='704. Binary Search'/>
     </pages>
 </playground>
