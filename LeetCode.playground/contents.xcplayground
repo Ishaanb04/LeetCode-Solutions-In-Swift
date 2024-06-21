@@ -58,5 +58,6 @@
         <page name='739. Daily Temperatures'/>
         <page name='46. Permutations'/>
         <page name='853. Car Fleet'/>
+        <page name='84. Largest Rectangle in Histogram'/>
     </pages>
 </playground>
