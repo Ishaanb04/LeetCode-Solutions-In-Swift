@@ -56,5 +56,6 @@
         <page name='150. Evaluate Reverse Polish Notation'/>
         <page name='22. Generate Parentheses'/>
         <page name='739. Daily Temperatures'/>
+        <page name='46. Permutations'/>
     </pages>
 </playground>
