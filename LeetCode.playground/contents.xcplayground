@@ -64,5 +64,6 @@
         <page name='704. Binary Search'/>
         <page name='74. Search a 2D Matrix'/>
         <page name='875. Koko Eating Bananas'/>
+        <page name='153. Find Minimum in Rotated Sorted Array'/>
     </pages>
 </playground>
