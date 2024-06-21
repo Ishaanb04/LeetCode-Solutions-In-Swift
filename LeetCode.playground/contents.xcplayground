@@ -62,5 +62,6 @@
         <page name='2390. Removing Stars From a String'/>
         <page name='394. Decode String'/>
         <page name='704. Binary Search'/>
+        <page name='74. Search a 2D Matrix'/>
     </pages>
 </playground>
