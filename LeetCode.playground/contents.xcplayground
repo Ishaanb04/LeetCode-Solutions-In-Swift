@@ -59,5 +59,6 @@
         <page name='46. Permutations'/>
         <page name='853. Car Fleet'/>
         <page name='84. Largest Rectangle in Histogram'/>
+        <page name='2390. Removing Stars From a String'/>
     </pages>
 </playground>
