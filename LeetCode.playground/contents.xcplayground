@@ -73,5 +73,7 @@
         <page name='733. Flood Fill'/>
         <page name='542. 01 Matrix'/>
         <page name='130. Surrounded Regions'/>
+        <page name='1020. Number of Enclaves'/>
+        <page name='127. Word Ladder'/>
     </pages>
 </playground>
