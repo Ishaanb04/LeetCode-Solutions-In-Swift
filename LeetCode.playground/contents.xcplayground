@@ -67,8 +67,9 @@
         <page name='153. Find Minimum in Rotated Sorted Array'/>
         <page name='33. Search in Rotated Sorted Array'/>
         <page name='35. Search Insert Position'/>
-        <page name='Number of Connected Components in an Undirected Graph'/>
+        <page name='323. Number of Connected Components in an Undirected Graph'/>
         <page name='547. Number of Provinces'/>
         <page name='994. Rotting Oranges'/>
+        <page name='733. Flood Fill'/>
     </pages>
 </playground>
