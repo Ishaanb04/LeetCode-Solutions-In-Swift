@@ -72,13 +72,29 @@ The repository is organized into different categories based on the type of probl
   - []()
   - []()
   - []()
-
-  
+- **Graph Problems**
+  - [323. Number of Connected Components in an Undirected Graph](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.xcplaygroundpage/Contents.swift)
+  - [547. Number of Provinces](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/547.%20Number%20of%20Provinces.xcplaygroundpage/Contents.swift)
+  - [994. Rotting Oranges](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/994.%20Rotting%20Oranges.xcplaygroundpage/Contents.swift)
+  - [733. Flood Fill](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/733.%20Flood%20Fill.xcplaygroundpage/Contents.swift)
+  - [542. 01 Matrix](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/542.%2001%20Matrix.xcplaygroundpage/Contents.swift)
+  - [130. Surrounded Regions](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/130.%20Surrounded%20Regions.xcplaygroundpage/Contents.swift)
+  - [1020. Number of Enclaves](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/1020.%20Number%20of%20Enclaves.xcplaygroundpage/Contents.swift)
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
 - **String Problems**
 - **Linked List Problems**
 - **Tree Problems**
 - **Dynamic Programming Problems**
-- **Graph Problems**
+
 - **Sorting and Searching Problems**
 - **Math Problems**
 - **Others**
