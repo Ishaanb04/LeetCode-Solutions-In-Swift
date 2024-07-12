@@ -69,5 +69,6 @@
         <page name='35. Search Insert Position'/>
         <page name='Number of Connected Components in an Undirected Graph'/>
         <page name='547. Number of Provinces'/>
+        <page name='994. Rotting Oranges'/>
     </pages>
 </playground>
