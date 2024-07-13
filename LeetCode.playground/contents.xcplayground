@@ -77,5 +77,6 @@
         <page name='127. Word Ladder'/>
         <page name='2751. Robot Collisions'/>
         <page name='198. House Robber'/>
+        <page name='1530. Number of Good Leaf Nodes Pairs'/>
     </pages>
 </playground>
