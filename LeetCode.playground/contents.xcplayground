@@ -78,5 +78,6 @@
         <page name='2751. Robot Collisions'/>
         <page name='198. House Robber'/>
         <page name='1530. Number of Good Leaf Nodes Pairs'/>
+        <page name='694. Number of Distinct Islands'/>
     </pages>
 </playground>
