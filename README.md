@@ -138,7 +138,7 @@ The repository is organized into different categories based on the type of probl
   - []()
   - []()
 - **Tree Problems**
-  - [1530. Number of Good Leaf Nodes Pairs]()
+  - [1530. Number of Good Leaf Nodes Pairs](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/1530.%20Number%20of%20Good%20Leaf%20Nodes%20Pairs.xcplaygroundpage/Contents.swift)
   - []()
   - []()
   - []()
