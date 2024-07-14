@@ -73,7 +73,7 @@ The repository is organized into different categories based on the type of probl
   - []()
   - []()
 - **Stack Problems**
-  - [2751. Robot Collisions][Hard](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/2751.%20Robot%20Collisions.xcplaygroundpage/Contents.swift)
+  - [2751. Robot Collisions Hard](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/2751.%20Robot%20Collisions.xcplaygroundpage/Contents.swift)
   - [726. Number of Atoms](https://github.com/Ishaanb04/LeetCode-Solutions-In-Swift/blob/main/LeetCode.playground/Pages/726.%20Number%20of%20Atoms.xcplaygroundpage/Contents.swift)
   - []()
   - []()
