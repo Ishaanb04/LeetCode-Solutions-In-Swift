@@ -82,5 +82,6 @@
         <page name='1257. Smallest Common Region'/>
         <page name='726. Number of Atoms'/>
         <page name='2196. Create Binary Tree From Descriptions'/>
+        <page name='2096. Step-By-Step Directions From a Binary Tree Node to Another'/>
     </pages>
 </playground>
